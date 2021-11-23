@@ -1,4 +1,4 @@
-### Heyo! I am ArktisRäv. 
+### Heyo! I am Arktiica. 
 I am a Junior Highschool Student as of Aug 2020. I [currently] program in JavaScript & Visual Basic. My current project is a dumb discord bot that makes things do things.
 
 <!--
