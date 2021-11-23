@@ -1,5 +1,5 @@
 ### Heyo! I am Arktiica. 
-I am a Senior Highschool Student as of Aug 2021. I [currently] program in JavaScript & Visual Basic. My current project is a dumb discord bot that makes things do things.
+I am a Senior Highschool Student as of Aug 2021. I [currently] program in JavaScript & Visual Basic.
 
 <!--
 **ArktisRav/ArktisRav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
