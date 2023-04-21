@@ -1,4 +1,5 @@
-Heyo! I am Arktiica (Ark), a college sophomore majoring in Computer Engineering. I dabble in
+Heyo! I am Arktiica (Ark), a college sophomore majoring in Computer Engineering. 
+
 * Python
 * Visual Basic
 * JavaScript
