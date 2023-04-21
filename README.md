@@ -1,5 +1,4 @@
-### Heyo! I am Arktiica. 
-I am a Senior Highschool Student as of Aug 2021. I [currently] program in JavaScript & Visual Basic.
+Heyo! I am Arktiica, a college sophomore majoring in Computer Engineering. I dabble in Python, JavaScript, & Visual Basic.
 
 <!--
 **ArktisRav/ArktisRav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
