@@ -1,4 +1,8 @@
-Heyo! I am Arktiica, a college sophomore majoring in Computer Engineering. I dabble in Python, JavaScript, & Visual Basic.
+Heyo! I am Arktiica (Ark), a college sophomore majoring in Computer Engineering. I dabble in
+* Python
+* Visual Basic
+* JavaScript
+* HTML & Tailwind
 
 <!--
 **ArktisRav/ArktisRav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
