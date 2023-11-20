@@ -1,15 +1,15 @@
 Heyo! I am Arktiica ("Ark"), a college sophomore majoring in Computer Engineering. I have numerous ideas but too lazy to do them.
 
-How do I print to the terminal again?
+Yea just let me use and mix types rlly quick:
 - Python
 - JavaScript
 - C
 - C#
- - UdonSharp
+  - UdonSharp
 
 Are these even programming 💀?
 - HTML / CSS
- - TailwindCSS
+  - TailwindCSS
 
 <!--
 **ArktisRav/ArktisRav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
