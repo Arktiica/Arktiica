@@ -1,4 +1,4 @@
-Heyo! I am Arktiica ("Ark"), a college sophomore majoring in Computer Engineering. I have numerous ideas but too lazy to do them.
+Heyo! I am Arktiica ("Ark"), a college sophomore majoring in Computer Engineering. I have numerous ideas but too lazy to do them and i never upload my things to github lol
 
 Spaghetti code? Nah, obfuscation 😎. 
 - Python
