@@ -1,9 +1,13 @@
-Heyo! I am Arktiica (Ark), a college sophomore majoring in Computer Engineering. 
+Heyo! I am Arktiica ("Ark"), a college sophomore majoring in Computer Engineering. I have numerous ideas but too lazy to do them.
 
-* Python
-* Visual Basic
-* JavaScript
-* HTML & Tailwind
+How do I print to the terminal again?
+- Python
+- JavaScript
+- C
+
+Are these even programming 💀?
+- HTML / CSS
+ - TailwindCSS
 
 <!--
 **ArktisRav/ArktisRav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
