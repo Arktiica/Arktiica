@@ -4,6 +4,8 @@ How do I print to the terminal again?
 - Python
 - JavaScript
 - C
+- C#
+ - UdonSharp
 
 Are these even programming 💀?
 - HTML / CSS
