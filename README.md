@@ -1,6 +1,6 @@
 Heyo! I am Arktiica ("Ark"), a college sophomore majoring in Computer Engineering. I have numerous ideas but too lazy to do them.
 
-Yea just let me use and mix types rlly quick:
+Spaghetti code? Nah, obfuscation 😎. 
 - Python
 - JavaScript
 - C
